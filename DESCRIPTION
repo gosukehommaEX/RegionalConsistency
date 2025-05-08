@@ -1,8 +1,8 @@
 Package: RegionalConsistency
 Title: Calculate Regional Consistency Probabilities for Multi-Regional Clinical Trials
 Version: 0.1.0
-Authors@R: 
-    person("Gosuke", "Homma", email = "my.name.is.gosuke@gmail.com", role = c("aut", "cre"))
+Author: Gosuke Homma
+Maintainer: Gosuke Homma <my.name.is.gosuke@gmail.com>
 Description: Provides methods to calculate approximate regional consistency probabilities 
     using Method 1 and Method 2 proposed by the Ministry of Health, Labour and Welfare (MHLW, 2007).
     These methods are useful for assessing regional consistency in multi-regional clinical trials.
