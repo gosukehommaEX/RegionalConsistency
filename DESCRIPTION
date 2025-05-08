@@ -1,0 +1,20 @@
+Package: RegionalConsistency
+Title: Calculate Regional Consistency Probabilities for Multi-Regional Clinical Trials
+Version: 0.1.0
+Authors@R: 
+    person("Gosuke", "Homma", email = "my.name.is.gosuke@gmail.com", role = c("aut", "cre"))
+Description: Provides methods to calculate approximate regional consistency probabilities 
+    using Method 1 and Method 2 proposed by the Ministry of Health, Labour and Welfare (MHLW, 2007).
+    These methods are useful for assessing regional consistency in multi-regional clinical trials.
+    The package can calculate unconditional, joint, and conditional regional consistency probabilities.
+    For technical details, please see Homma et al. (2024) <doi:10.1002/pst.2358>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports: 
+    mvtnorm
+Suggests:
+    testthat,
+    knitr,
+    rmarkdown
