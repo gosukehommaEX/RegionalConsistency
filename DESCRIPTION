@@ -14,6 +14,7 @@ Description: Provides methods to calculate approximate regional
 License: MIT + file LICENSE
 Imports: 
     mvtnorm
+    stats
 Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
