@@ -8,7 +8,7 @@
 #'   \item Joint regional consistency probabilities
 #'   \item Conditional regional consistency probabilities
 #' }
-#' For technical details, please see \url{https://doi.org/10.1002/pst.2358}
+#' For technical details, please see Homma (2024)
 #'
 #' @param f.s A numeric vector representing the proportion of patients in region s(=1,...,S)
 #'        among patients in the entire trial population. Values must sum to 1.

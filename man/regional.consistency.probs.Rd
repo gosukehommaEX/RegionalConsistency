@@ -43,7 +43,7 @@ The function can obtain:
 \item Joint regional consistency probabilities
 \item Conditional regional consistency probabilities
 }
-For technical details, please see \doi{10.1002/pst.2358}
+For technical details, please see Homma (2024)
 }
 \examples{
 regional.consistency.probs(
