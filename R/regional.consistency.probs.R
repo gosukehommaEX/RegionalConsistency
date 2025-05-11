@@ -42,6 +42,8 @@
 #' )
 #'
 #' @importFrom mvtnorm pmvnorm
+#' @importFrom stats pnorm
+#' @importFrom stats qnorm
 #' @export
 regional.consistency.probs <- function(f.s, PI, alpha, power, seed) {
   # Check whether sum of f.s is 1
