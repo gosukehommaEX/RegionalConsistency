@@ -8,7 +8,7 @@
 2. Joint regional consistency probabilities
 3. Conditional regional consistency probabilities
 
-For technical details about the methodology, please refer to Homma (2024) [https://doi.org/10.1002/pst.2358](https://doi.org/10.1002/pst.2358).
+For technical details about the methodology, please refer to [Homma (2024)](https://doi.org/10.1002/pst.2358).
 
 ## Installation
 
