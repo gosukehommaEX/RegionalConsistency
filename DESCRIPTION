@@ -13,7 +13,7 @@ Description: Provides methods to calculate approximate regional
     details, please see Homma et al. (2024) <doi:10.1002/pst.2358>.
 License: MIT + file LICENSE
 Imports: 
-    mvtnorm
+    mvtnorm,
     stats
 Suggests:
     testthat (>= 3.0.0)
