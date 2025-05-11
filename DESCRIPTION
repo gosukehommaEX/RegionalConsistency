@@ -1,7 +1,7 @@
 Package: RegionalConsistency
 Title: Calculate Regional Consistency Probabilities for Multi-Regional
     Clinical Trials
-Version: 0.1.0
+Version: 1.0.0
 Author: Gosuke Homma
 Maintainer: Gosuke Homma <my.name.is.gosuke@gmail.com>
 Description: Provides methods to calculate approximate regional
