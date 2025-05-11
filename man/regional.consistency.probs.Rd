@@ -36,7 +36,8 @@ A list containing the following components:
 }
 \description{
 This function calculates approximate regional consistency probabilities
-using Methods 1 and 2 proposed by Japanese MHLW (2007).
+using Methods 1 and 2 proposed by the Japanese
+    Ministry of Health, Labor and Welfare (2007).
 The function can obtain:
 \itemize{
 \item Unconditional regional consistency probabilities
