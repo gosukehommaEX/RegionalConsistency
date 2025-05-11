@@ -16,7 +16,7 @@ among patients in the entire trial population. Values must sum to 1.}
 
 \item{power}{A numeric value representing the target power.}
 
-\item{seed}{An integer used for reproducibility of random number generation.}
+\item{seed}{A random number seed.}
 }
 \value{
 A list containing the following components:
@@ -36,7 +36,7 @@ A list containing the following components:
 }
 \description{
 This function calculates approximate regional consistency probabilities
-using Methods 1 and 2 proposed by MHLW (2007).
+using Methods 1 and 2 proposed by Japanese MHLW (2007).
 The function can obtain:
 \itemize{
 \item Unconditional regional consistency probabilities

@@ -1,7 +1,7 @@
 #' Calculate Regional Consistency Probabilities
 #'
 #' This function calculates approximate regional consistency probabilities
-#' using Methods 1 and 2 proposed by MHLW (2007).
+#' using Methods 1 and 2 proposed by Japanese MHLW (2007).
 #' The function can obtain:
 #' \itemize{
 #'   \item Unconditional regional consistency probabilities
