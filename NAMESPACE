@@ -2,3 +2,4 @@
 
 export(regional.consistency.probs)
 importFrom(mvtnorm,pmvnorm)
+importFrom("stats", "pnorm", "qnorm")
