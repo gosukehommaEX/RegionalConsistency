@@ -15,7 +15,7 @@
 #' @param PI A numeric value specifying the threshold for Method 1 (typically set at 0.5).
 #' @param alpha A numeric value representing the one-sided level of significance.
 #' @param power A numeric value representing the target power.
-#' @param seed An integer used for reproducibility of random number generation.
+#' @param seed A random number seed.
 #'
 #' @return A list containing the following components:
 #' \describe{
