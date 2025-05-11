@@ -2,4 +2,5 @@
 
 export(regional.consistency.probs)
 importFrom(mvtnorm,pmvnorm)
-importFrom(stats,pnorm,qnorm)
+importFrom(stats,pnorm)
+importFrom(stats,qnorm)
