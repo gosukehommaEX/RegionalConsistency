@@ -1,4 +1,6 @@
-^.*\.Rproj$
+^.RegionalConsistency\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
-^dev$
+^cran-comments\.md$
+^\.github$
+^CRAN-SUBMISSION$
