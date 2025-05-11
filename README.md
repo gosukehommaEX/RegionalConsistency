@@ -16,7 +16,7 @@ You can install the development version of RegionalConsistency from GitHub with:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("username/RegionalConsistency")
+devtools::install_github("gosukehommaEX/RegionalConsistency")
 ```
 
 ## Usage
