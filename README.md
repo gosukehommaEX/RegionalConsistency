@@ -52,7 +52,7 @@ print(result)
 ## References
 
 
-Homma, G. (2024). Cautionary note on regional consistency evaluation in multiregional clinical trials with binary outcomes. *Pharmaceutical Statistics*, [https://doi.org/10.1002/pst.2358](https://doi.org/10.1002/pst.2358).
+Homma, G. (2024). Cautionary note on regional consistency evaluation in multi-regional clinical trials with binary outcomes. *Pharmaceutical Statistics*, [https://doi.org/10.1002/pst.2358](https://doi.org/10.1002/pst.2358).
 
 
 Ministry of Health, Labour and Welfare (2007). Basic principles on global clinical trials, [https://www.pmda.go.jp/files/000153265.pdf](https://www.pmda.go.jp/files/000153265.pdf).
