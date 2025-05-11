@@ -2,7 +2,7 @@
 
 ## Overview
 
-`RegionalConsistency` is an R package that calculates approximate regional consistency probabilities for multi-regional clinical trials using methods proposed by MHLW (2007). The package implements both Method 1 and Method 2 approaches and can calculate:
+`RegionalConsistency` is an R package that calculates approximate regional consistency probabilities for multi-regional clinical trials using methods proposed by [MHLW (2007)](https://www.pmda.go.jp/files/000153265.pdf). The package implements both Method 1 and Method 2 approaches and can calculate:
 
 1. Unconditional regional consistency probabilities
 2. Joint regional consistency probabilities
