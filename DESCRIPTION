@@ -4,8 +4,7 @@ Version: 1.0.0
 Authors@R: person(given = "Gosuke",
                   family = "Homma",
                   role = c("aut", "cre"),
-                  email = "my.name.is.gosuke@gmail.com",
-                  ORCID = "0000-0002-6854-5627")
+                  email = "my.name.is.gosuke@gmail.com")
 Description: Provides methods to calculate approximate regional
     consistency probabilities using Method 1 and Method 2 proposed by the Japanese
     Ministry of Health, Labor and Welfare (2007) <https://www.pmda.go.jp/files/000153265.pdf>. These methods
