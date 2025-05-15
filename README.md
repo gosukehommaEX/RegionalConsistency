@@ -35,11 +35,6 @@ For technical details about the methodology, please refer to [Homma (2024)](http
 ## Installation
 
 
-
-
-You can install the development version of RegionalConsistency from GitHub with:
-
-
 ```{r, eval = FALSE}
 # CRAN version 
 install.packages("RegionalConsistency")
