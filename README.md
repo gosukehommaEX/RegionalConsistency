@@ -63,6 +63,7 @@ result <- regional.consistency.probs(
 # View results
 print(result)
 ```
+<img src="man/README-figure.png" width="100%"/>
 
 ## References
 
