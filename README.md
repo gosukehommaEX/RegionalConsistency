@@ -1,4 +1,4 @@
-[![Travis Build Status](https://travis-ci.org/gosukehommaEX/RegionalConsistency.svg?branch=master)](https://travis-ci.org/gosukehommaEX/RegionalConsistency)
+
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/RegionalConsistency)](https://cran.r-project.org/package=RegionalConsistency)
 [![downloads](http://cranlogs.r-pkg.org/badges/grand-total/RegionalConsistency)](https://cranlogs.r-pkg.org/badges/grand-total/RegionalConsistency)
 
