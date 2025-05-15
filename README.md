@@ -48,14 +48,8 @@ devtools::install_github("gosukehommaEX/RegionalConsistency")
 
 ## Usage
 
-
-
-
 ```r
 library(RegionalConsistency)
-
-
-
 
 # Calculate regional consistency probabilities
 result <- regional.consistency.probs(
@@ -66,15 +60,9 @@ result <- regional.consistency.probs(
   seed = 123                 # Seed for reproducibility
 )
 
-
-
-
 # View results
 print(result)
 ```
-
-
-
 
 ## References
 
