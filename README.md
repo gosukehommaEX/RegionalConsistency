@@ -40,13 +40,14 @@ For technical details about the methodology, please refer to [Homma (2024)](http
 You can install the development version of RegionalConsistency from GitHub with:
 
 
+```{r, eval = FALSE}
+# CRAN version 
+install.packages("RegionalConsistency")
 
-
-```r
+# Development version from GitHub
 # install.packages("devtools")
 devtools::install_github("gosukehommaEX/RegionalConsistency")
 ```
-
 
 
 
