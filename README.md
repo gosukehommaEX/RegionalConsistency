@@ -1,11 +1,13 @@
 
+# RegionalConsistency <img src="man/badge-RegionalConsistency.png" align="right" height="139" /></a>
+
+<!-- badges: start -->
+<!-- WARNING: -->
+<!-- The ?branch=release-x.y.y is updated automatically by the initiate_version_release workflow -->
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/RegionalConsistency)](https://cran.r-project.org/package=RegionalConsistency)
 [![downloads](http://cranlogs.r-pkg.org/badges/grand-total/RegionalConsistency)](https://cranlogs.r-pkg.org/badges/grand-total/RegionalConsistency)
 [![downloads](http://cranlogs.r-pkg.org/badges/RegionalConsistency)](https://cranlogs.r-pkg.org/badges/RegionalConsistency)
-
-# RegionalConsistency <img src="man/badge-RegionalConsistency.png" align="right" height="139" /></a>
-
-
+<!-- badges: end -->
 
 
 ## Overview
