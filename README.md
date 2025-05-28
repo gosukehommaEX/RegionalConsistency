@@ -3,7 +3,7 @@
 [![downloads](http://cranlogs.r-pkg.org/badges/grand-total/RegionalConsistency)](https://cranlogs.r-pkg.org/badges/grand-total/RegionalConsistency)
 [![downloads](http://cranlogs.r-pkg.org/badges/RegionalConsistency)](https://cranlogs.r-pkg.org/badges/RegionalConsistency)
 
-# RegionalConsistency <img src="man/figures/badge-RegionalConsistency.png" align="right" height="139" /></a>
+# RegionalConsistency <img src="man/badge-RegionalConsistency.png" align="right" height="139" /></a>
 
 
 
